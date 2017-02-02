@@ -1,11 +1,20 @@
-*hello*
-**hello**
+
+#Github Flavored Markdown
+*
+__Created by Marissa and Brittany__
+
+
+** PLEASE READ**
+
+
 <!DOCTYPE html>
 <html>
 <head>
-	<title>asdfasdf</title>
+  <title> We are having an *awesome* time making markdown! </title>
 </head>
 <body>
+
+[This is our link](https://www.github.com)
 
 </body>
 </html>
