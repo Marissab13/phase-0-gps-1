@@ -14,7 +14,7 @@ __Created by Marissa and Brittany__
 </head>
 <body>
 
-[Please see our link](https://www.github.com)
+[Please do see our link](https://www.github.com)
 
 </body>
 </html>
