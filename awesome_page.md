@@ -10,11 +10,11 @@ __Created by Marissa and Brittany__
 <!DOCTYPE html>
 <html>
 <head>
-  <title> We are having an *awesome* time making markdown! </title>
+  <title> We are having an *awesome* time making markdown </title>
 </head>
 <body>
 
-[This is our link](https://www.github.com)
+[Please see our link](https://www.github.com)
 
 </body>
 </html>
